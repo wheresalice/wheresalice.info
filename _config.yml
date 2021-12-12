@@ -1,0 +1,10 @@
+# Site settings
+title: wheresalice
+tag_text: wheresalice
+description: wheresalice projects
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
