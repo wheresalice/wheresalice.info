@@ -6,10 +6,8 @@ Alice runs a number of public-facing services which are free to use:
 
 * [Bibliogram](https://bibliogram.wheresalice.info)
 * [Invidious2Newpipe](https://invidious2newpipe.wheresalice.info/)
-* [Libreddit](https://libreddit.wheresalice.info)
 * [Meeting Mood](https://meeting-mood.wheresalice.info/)
 * [Planning Poker](https://hatjitsu.wheresalice.info/)
-* [Rimgo](https://rimgo.wheresalice.info)
 * [SearXNG](https://searx.wheresalice.info)
 * [Welsh Password](https://welshpassword.wheresalice.info/)
 
