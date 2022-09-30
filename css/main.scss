@@ -3,7 +3,20 @@
 ---
 @charset "utf-8";
 
-@import
-  'normalize',
-  'solo',
-  'syntax';
+html {
+  max-width: 70ch;
+  padding: 3em 1em;
+  margin: auto;
+  line-height: 1.75;
+  font-size: 1.25em;
+}
+
+h1 {
+  margin: 3em 0 1em;
+}
+
+p,ul {
+  margin-bottom: 2em;
+  color: #1d1d1d;
+  font-family: sans-serif;
+}
