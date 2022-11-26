@@ -10,4 +10,4 @@ Alice runs a number of public-facing services which are free to use:
 * [SearXNG](https://searx.wheresalice.info)
 * [Welsh Password](https://welshpassword.wheresalice.info/)
 
-If these prove useful, you are welcome to donate on [ko-fi](https://ko-fi.com/wheresalice) or [patreon](https://www.patreon.com/wheresalice)
+If these prove useful, you are welcome to donate on [liberapay](https://liberapay.com/wheresalice/donate), [ko-fi](https://ko-fi.com/wheresalice) or [patreon](https://www.patreon.com/wheresalice)
