@@ -20,3 +20,10 @@ p,ul {
   color: #1d1d1d;
   font-family: sans-serif;
 }
+
+#footer {
+   position: fixed;
+   bottom: 0;
+   width: 100%;
+   height: 60px;   /* Height of the footer */
+}
