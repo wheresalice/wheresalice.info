@@ -1,48 +1,24 @@
-main {
-  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  max-width: 38rem;
-  padding: 2rem;
-  margin: auto;
-}
-
-@media only screen and (max-device-width: 736px) {
-  main {
-    padding: 0rem;
-  }
-}
-
-::selection {
-  background: #6272a4;
-}
-
-body {
-  background: #282A36;
-  color:      #F8F8F2;
-  font-size: 19px;
-}
-
-a, a:active, a:visited {
-  color: #ffb86c;
-  /* background-color: #1d2021; */
-}
-
-h1 {
-  color: #FF79C6;
-  margin-bottom: .1rem;
-  font-size: 24px;
-}
-
-ul {list-style: none}
-li::before {content: "•"; color: #BD93F9;
-  display: inline-block; width: 1em;
-  margin-left: -1em}
-
-footer {
-  margin: 0.5em 10px;
-  padding: 0.5em 10px;
-  color: #BD93F9;
-}
-
-small {
-  font-size: 16px;
-}
+      :root {
+        --global-font-size: 15px;
+        --global-line-height: 1.4em;
+        --global-space: 10px;
+        --font-stack: Fira Code, Menlo, Monaco, Lucida Console, Liberation Mono,
+          DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
+          serif;
+        --mono-font-stack: Fira Code, Menlo, Monaco, Lucida Console, Liberation Mono,
+          DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace,
+          serif;
+        --background-color: #282A36;
+        --page-width: 500px;
+        --font-color: #F8F8F2;
+        --invert-font-color: #222225;
+        --secondary-color: #a3abba;
+        --tertiary-color: #a3abba;
+        --primary-color: #FFB86C;
+        --error-color: #ff3c74;
+        --progress-bar-background: #3f3f44;
+        --progress-bar-fill: #62c4ff;
+        --code-bg-color: #3f3f44;
+        --input-style: solid;
+        --display-h1-decoration: none;
+      }
